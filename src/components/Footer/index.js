@@ -1,7 +1,7 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const FooterWrapper = styled.footer`
-  background-color: #fbd30d70;
+  background-color: #fbd30d90;
   padding: 20px;
   display: flex;
   align-items: center;
@@ -25,7 +25,7 @@ const FooterWrapper = styled.footer`
       text-decoration: underline
     }
   }
-`
+`;
 
 export default function Footer(props) {
   return (
@@ -44,4 +44,4 @@ export default function Footer(props) {
       </p>
     </FooterWrapper>
   );
-} 
+}
