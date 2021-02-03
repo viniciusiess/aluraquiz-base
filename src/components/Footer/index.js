@@ -1,10 +1,11 @@
 import styled from 'styled-components';
 
 const FooterWrapper = styled.footer`
-  background-color: #fbd30d90;
+  background-color: ${({ theme }) => theme.colors.secondary};
   padding: 20px;
   display: flex;
   align-items: center;
+  border: 1px solid  ${({ theme }) => theme.colors.primary};
   border-radius: 4px;
 
   img {

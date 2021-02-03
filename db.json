@@ -3,7 +3,66 @@
   "title": "Batman Quiz",
   "description": "Veja aqui o quanto você conhece sobre o herói!",
   "questions": [
-
+    {
+      "image": "https://media.giphy.com/media/a5viI92PAF89q/giphy.gif",
+      "title": "Qual foi um dos criadores do batman nos quadrinhos?",
+      "description": "Essa é pra aquecer hein",
+      "answer": 0,
+      "alternatives": [
+        "Bill Finger",
+        "Jim Lee",
+        "Alan Moore",
+        "Stan Lee"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3Gij38skUDBvy/giphy.gif",
+      "title": "Qual desses é um vilão do Batman?",
+      "description": "Fácil fácil hahaha",
+      "answer": 1,
+      "alternatives": [
+        "Lex Luthor",
+        "Rei do Crime",
+        "Duende Verde",
+        "Pinguim"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/5DQdk5oZzNgGc/giphy.gif",
+      "title": "Em um crossover entre Marvel e DC, o Batman se fundiu com um personagem, quem foi?",
+      "description": "Hummmmm",
+      "answer": 2,
+      "alternatives": [
+        "Wolverine",
+        "Homem de Ferro",
+        "Doutor Estranho",
+        "Demolidor"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3YsEPo1u3C8dW/giphy.gif",
+      "title": "Primeira aparição do Batman?",
+      "description": "Vamos ver se você sabe essa",
+      "answer": 3,
+      "alternatives": [
+        "Detective Comics #29 maio de 1939",
+        "Detective Comics #27 maio de 1939",
+        "Detective Comics #28 maio de 1939",
+        "Detective Comics #27 março de 1939"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/5RQ5qgeXzIHTi/giphy.gif",
+      "title": "Quem viveu o Batman e o Robin, nesse seriado de 1943?",
+      "description": "Difícil?",
+      "answer": 4,
+      "alternatives": [
+        "William Austin e Charles C. Wilson",
+        "Robert Fiske e Lewis Wilson",
+        "Lewis Wilson e Douglas Croft",
+        "Douglas Croft e Charles C. Wilson"
+      ]
+    }
   ],
   "external": [
 
