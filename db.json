@@ -19,7 +19,7 @@
       "image": "https://media.giphy.com/media/3Gij38skUDBvy/giphy.gif",
       "title": "Qual desses é um vilão do Batman?",
       "description": "Fácil fácil hahaha",
-      "answer": 1,
+      "answer": 3,
       "alternatives": [
         "Lex Luthor",
         "Rei do Crime",
@@ -31,7 +31,7 @@
       "image": "https://media.giphy.com/media/5DQdk5oZzNgGc/giphy.gif",
       "title": "Em um crossover entre Marvel e DC, o Batman se fundiu com um personagem, quem foi?",
       "description": "Hummmmm",
-      "answer": 2,
+      "answer": 0,
       "alternatives": [
         "Wolverine",
         "Homem de Ferro",
@@ -43,7 +43,7 @@
       "image": "https://media.giphy.com/media/3YsEPo1u3C8dW/giphy.gif",
       "title": "Primeira aparição do Batman?",
       "description": "Vamos ver se você sabe essa",
-      "answer": 3,
+      "answer": 1,
       "alternatives": [
         "Detective Comics #29 maio de 1939",
         "Detective Comics #27 maio de 1939",
@@ -55,11 +55,11 @@
       "image": "https://media.giphy.com/media/5RQ5qgeXzIHTi/giphy.gif",
       "title": "Quem viveu o Batman e o Robin, nesse seriado de 1943?",
       "description": "Difícil?",
-      "answer": 4,
+      "answer": 2,
       "alternatives": [
         "William Austin e Charles C. Wilson",
-        "Robert Fiske e Lewis Wilson",
         "Lewis Wilson e Douglas Croft",
+        "Robert Fiske e Lewis Wilson",
         "Douglas Croft e Charles C. Wilson"
       ]
     }
@@ -73,8 +73,8 @@
       "secondary": "#fbd30d90",
       "mainBg": "#030207",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
-      "sucess": "#4CAF50" 
+      "wrong": "red",
+      "sucess": "green"
     },
     "borderRadius": "4px"
   }
