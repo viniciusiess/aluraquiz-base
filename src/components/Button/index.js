@@ -2,8 +2,8 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
 const Button = styled.button`
-  background-color: ${({ theme }) => theme.colors.secondary};
-  color: ${({ theme }) => theme.colors.contrastText};
+  background-color: ${({ theme }) => theme.colors.primary};
+  color: ${({ theme }) => theme.colors.mainBg};
   border-radius: ${({ theme }) => theme.borderRadius};
   border: 0;
 
@@ -23,7 +23,7 @@ const Button = styled.button`
   }
 
   &:disabled {
-    background-color: #fbd30d50;
+    background-color: #13293D50;
     cursor: not-allowed;
   }
 `

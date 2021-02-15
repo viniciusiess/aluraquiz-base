@@ -1,80 +1,81 @@
 {
-  "bg": "https://images4.alphacoders.com/108/thumb-1920-1087677.jpg",
+  "bg": "https://cdn.wallpapersafari.com/31/65/VfOKi5.jpg",
   "title": "Batman Quiz",
   "description": "Veja aqui o quanto você conhece sobre o herói!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/a5viI92PAF89q/giphy.gif",
-      "title": "Qual foi um dos criadores do batman nos quadrinhos?",
+      "image": "https://media.giphy.com/media/UnyswD2CV5AEGIdezX/giphy.gif",
+      "title": "Skyrim é a terra natal de qual raça?",
       "description": "Essa é pra aquecer hein",
-      "answer": 0,
-      "alternatives": [
-        "Bill Finger",
-        "Jim Lee",
-        "Alan Moore",
-        "Stan Lee"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/3Gij38skUDBvy/giphy.gif",
-      "title": "Qual desses é um vilão do Batman?",
-      "description": "Fácil fácil hahaha",
-      "answer": 3,
-      "alternatives": [
-        "Lex Luthor",
-        "Rei do Crime",
-        "Duende Verde",
-        "Pinguim"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/5DQdk5oZzNgGc/giphy.gif",
-      "title": "Em um crossover entre Marvel e DC, o Batman se fundiu com um personagem, quem foi?",
-      "description": "Hummmmm",
-      "answer": 0,
-      "alternatives": [
-        "Wolverine",
-        "Homem de Ferro",
-        "Doutor Estranho",
-        "Demolidor"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/3YsEPo1u3C8dW/giphy.gif",
-      "title": "Primeira aparição do Batman?",
-      "description": "Vamos ver se você sabe essa",
-      "answer": 1,
-      "alternatives": [
-        "Detective Comics #29 maio de 1939",
-        "Detective Comics #27 maio de 1939",
-        "Detective Comics #28 maio de 1939",
-        "Detective Comics #27 março de 1939"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/5RQ5qgeXzIHTi/giphy.gif",
-      "title": "Quem viveu o Batman e o Robin, nesse seriado de 1943?",
-      "description": "Difícil?",
       "answer": 2,
       "alternatives": [
-        "William Austin e Charles C. Wilson",
-        "Lewis Wilson e Douglas Croft",
-        "Robert Fiske e Lewis Wilson",
-        "Douglas Croft e Charles C. Wilson"
+        "Redguard",
+        "Imperial",
+        "Nord",
+        "Breton"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/wTzYIM6Tjk0Ao/giphy.gif",
+      "title": "Onde fica o colégio de magia?",
+      "description": "Fácil fácil hahaha",
+      "answer": 1,
+      "alternatives": [
+        "Dawnstar",
+        "Winterhold",
+        "Witherun",
+        "Morthal"
+      ]
+    },
+    {
+      "image": "https://i.makeagif.com/media/1-16-2015/3fWkI1.gif",
+      "title": "Quem é o líder dos Greybeards?",
+      "description": "Hummmmm",
+      "answer": 2,
+      "alternatives": [
+        "Wulfgar",
+        "Borri",
+        "Paarthurnax",
+        "Arngeir"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/aT2Vf6tJaRyCssznlz/giphy.gif",
+      "title": "Qual o lugar onde os Imperials levam você como prisioneiro?",
+      "description": "Vamos ver se você sabe essa",
+      "answer": 3,
+      "alternatives": [
+        "Riverwood",
+        "Whiterun",
+        "Solitude",
+        "Helgen"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/rDm1AP4DS8UKY/giphy.gif",
+      "title": "O que você ganha ao matar um dragão no jogo?",
+      "description": "Difícil?",
+      "answer": 0,
+      "alternatives": [
+        "Dragon Soul",
+        "Dragon Orb",
+        "Dragon Helm",
+        "Dragon Skull"
       ]
     }
   ],
   "external": [
-
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-marvel.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
-      "primary": "#03020790",
-      "secondary": "#fbd30d90",
-      "mainBg": "#030207",
-      "contrastText": "#FFFFFF",
-      "wrong": "red",
-      "sucess": "green"
+      "primary": "#13293D90",
+      "secondary": "#E8F1F260",
+      "mainBg": "#E8F1F290",
+      "contrastText": "black",
+      "wrong": "#FF572280",
+      "success": "#4CAF5080"
     },
     "borderRadius": "4px"
   }
