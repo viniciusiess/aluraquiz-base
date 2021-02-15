@@ -48,7 +48,7 @@ export default function Home() {
           animate="show"
         >
           <Widget.Header>
-            <h1>#The Batman</h1>
+            <h1>#The Elder Scrolls V - Skyrim</h1>
           </Widget.Header>
           <Widget.Content>
             <form onSubmit={(e) => {
